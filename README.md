@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8FA8FA&center=true&width=435&lines=ᴜɴᴛɪʟ+ɴᴇxᴛ+ᴛɪᴍᴇ,;ꜱɪɢɴ+ᴍʏ+ᴀᴛᴀ+!+!)](https://git.io/typing-svg)
 </div>
 
-<img src="https://i.pinimg.com/736x/c6/13/f5/c613f586e1537b6732ccb3438a5efa89.jpg" align="left" width="%10" height="%10"></a>
+<img src="https://i.pinimg.com/736x/c6/13/f5/c613f586e1537b6732ccb3438a5efa89.jpg" align="right" width="%10" height="%10"></a>
 </div>
 <div align="center">
 
