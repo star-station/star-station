@@ -44,5 +44,3 @@ ${\textsf{\color{#BFCAF2}" ɪ ʟᴏᴠᴇ ᴡʀɪᴛɪɴɢ ꜱᴛᴏʀɪᴇꜱ. 
  # ${\textsf{\color{#8FA8FA}" ! ! ! "}}$ 
 </div>
 <div align="center">
-
-![spotify-github-profile](/img/spotify-embed.svg)
